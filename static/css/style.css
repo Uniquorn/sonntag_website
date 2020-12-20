@@ -1,0 +1,17 @@
+body {
+    margin-top: 2em;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    color: #f2ba2e;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #f2ba2e !important;
+    border-color: #f2ba2e !important;
+}
+.btn-outline-primary, .btn-outline-primary:hover, .btn-outline-primary:active, .btn-outline-primary:visited {
+    background-color: #f2ba2e !important;
+    border-color: #f2ba2e !important;
+}
